@@ -1,6 +1,6 @@
-# React + Vite
+TLRYN
 Live link: https://tlryn.vercel.app/
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Project made using React.JS frontend framework and DaisyUI.
 
 Currently, two official plugins are available:
 
