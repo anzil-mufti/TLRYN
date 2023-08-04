@@ -5,8 +5,8 @@ const FeatureCard = ({ title, description, imageUrl }) => {
               <img src={imageUrl} alt={title} />
           </figure>
           <div className="card-body hero-overlay items-center hover:bg-base-100 hover:bg-opacity-90 text-center text-info-content opacity-0 hover:opacity-100 justify-center">
-              <h2 className="card-title text-3xl font-semibold bg-base-100">{title}</h2>
-              <p className="flex-grow-0 h-fit bg-base-100">{description}</p>
+              <h2 className="card-title text-3xl font-bold bg-base-100">{title}</h2>
+              <p className="flex-grow-0 font-bold  h-fit bg-base-100">{description}</p>
           </div>
       </div>
   )
