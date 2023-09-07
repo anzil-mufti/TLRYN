@@ -1,5 +1,3 @@
-import { useState } from "react"
-import { useEffect } from "react"
 import Project from "./Project"
 const ProjectsPage = () => {
     return (
